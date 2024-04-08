@@ -1,3 +1,3 @@
-[submodule "asheng303-blog/themes/soho"]
-	path = asheng303-blog/themes/soho
-	url = https://github.com/alexandrevicenzi/soho.git
+[submodule "asheng303-blog/themes/lightbi-hugo"]
+	path = asheng303-blog/themes/lightbi-hugo
+	url = https://github.com/binokochumolvarghese/lightbi-hugo
