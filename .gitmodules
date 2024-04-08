@@ -1,0 +1,3 @@
+[submodule "asheng303-blog/themes/soho"]
+	path = asheng303-blog/themes/soho
+	url = https://github.com/alexandrevicenzi/soho.git
